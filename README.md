@@ -38,6 +38,10 @@ Currently       →  Exploring AI, RAG & Backend Architecture
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 </p>
 
+<p>
+  <img src="https://darelhonrejas.com/tools/react.svg"/>
+</p>
+
 ### Backend
 
 <p>
