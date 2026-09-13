@@ -2,6 +2,16 @@
   <img src="./assets/shapes.png" width="100%" alt="Shapes">
 </p>
 
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="./assets/profile_card.png" width="100%" alt="Profile">
+    </td>
+
+  
+  </tr>
+</table>
+
 # 👋 Hey, I'm Darel
 
 ### Full-Stack Developer · Computer Science Graduate · Philippines 🇵🇭
