@@ -4,10 +4,10 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33.5%" valign="top">
       <img src="./assets/profile_card.png" width="100%" alt="Profile">
     </td>
-    <td width="67%" valign="top">
+    <td width="65.5%" valign="top">
       <img src="./assets/role_card.png" width="100%" alt="Profile">
     </td>
   </tr>
