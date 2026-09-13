@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/shapes.png" width="100%" alt="Shapes">
+</p>
+
 # 👋 Hey, I'm Darel
 
 ### Full-Stack Developer · Computer Science Graduate · Philippines 🇵🇭
